@@ -15,7 +15,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/Reilley64/mods/releases/download/v0.1.0/mods-v0.1.0-x86_64-pc-windows-msvc.zip
-    InstallerSha256: A1C01C39412F34CEA07C6A26C944CC3303E2F4451872049256A99A9B48231610
+    InstallerUrl: https://github.com/Reilley64/mods/releases/download/v0.1.0/mods-v0.1.0-runtime-x86_64-pc-windows-msvc.zip
+    InstallerSha256: 3A71D12B77CBFD8E2371258075AE0E5148DB219865006CB3E0F952B9F31F44F9
 ManifestType: installer
 ManifestVersion: 1.12.0
